@@ -16,7 +16,7 @@ This project aims to build a multimodal architecture using PyTorch to classify m
 The dataset used for training and evaluating the multimodal architecture will be a meme classification dataset containing images and captions, with multiple examples of memes for each class (Positive & Very Positive, Neutral, or Negative & Very Negative).
 
 ## Usage
-1. Clone the repository `git clone https://github.com/Anas1108/Multimodal_Memes_Classification`
+1. Clone the repository `git clone https://github.com/Zainshafqat54/MultiModal_Memes_Classification_using_python`
 2. Install the dependencies using `pip install -r requirements.txt`
 3. Open the Jupyter Notebook and run the cells to train the model.
 4. Evaluate the model on the test data to see its performance on the meme classification task.
